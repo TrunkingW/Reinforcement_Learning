@@ -1,10 +1,10 @@
 # RL_Stock
 
-## ´ú¸Õµ²ªG
-![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_´ú¸Õ¬ö¿ı/µ²ªG_1.png)
-![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_´ú¸Õ¬ö¿ı/µ²ªG_2.png)
-![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_´ú¸Õ¬ö¿ı/µ²ªG_3.png)
+## æ¸¬è©¦çµæœ
+![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_Â´ÃºÂ¸Ã•Â¬Ã¶Â¿Ã½/ÂµÂ²ÂªG_1.png)
+![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_Â´ÃºÂ¸Ã•Â¬Ã¶Â¿Ã½/ÂµÂ²ÂªG_2.png)
+![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_Â´ÃºÂ¸Ã•Â¬Ã¶Â¿Ã½/ÂµÂ²ÂªG_3.png)
 
-##´ú¸Õ°Ñ¼Æ
-![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_´ú¸Õ¬ö¿ı/°Ñ¼Æ_1.jpg)
-![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_´ú¸Õ¬ö¿ı/°Ñ¼Æ_2.jpg)
+## æ¸¬è©¦åƒæ•¸
+![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_Â´ÃºÂ¸Ã•Â¬Ã¶Â¿Ã½/Â°Ã‘Â¼Ã†_1.jpg)
+![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180225_Â´ÃºÂ¸Ã•Â¬Ã¶Â¿Ã½/Â°Ã‘Â¼Ã†_2.jpg)
