@@ -7,4 +7,4 @@
 
 ## 測試參數
 ![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180226_測試紀錄_part1/參數_1.jpg)
-![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180226_測試紀錄_part1/參數_1.jpg)
+![image](https://github.com/TrunkingW/Reinforcement_Learning/blob/master/RL_Stock/DPPO_20180226_測試紀錄_part1/參數_2.jpg)
